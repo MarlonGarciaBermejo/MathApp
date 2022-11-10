@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math-App</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="answerView">TextView</string>
+</resources>
